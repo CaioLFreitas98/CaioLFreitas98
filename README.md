@@ -3,7 +3,7 @@
 My name is Caio Leando Freitas da Silva nice too meet you ! 
 
 I am back-end developer Python
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 
 
