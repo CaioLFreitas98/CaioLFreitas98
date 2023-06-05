@@ -2,7 +2,7 @@
 
 My name is Caio Leando Freitas da Silva nice too meet you ! 
 
-I am back-end developer Python and JavaScript
+I am back-end developer Python
 **CaioLFreitas98/CaioLFreitas98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
