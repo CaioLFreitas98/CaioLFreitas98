@@ -8,6 +8,8 @@ Sobre mim:
 - 🌱 
 
  #LINGUAGENS.
+ 
+![Python](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fpython-logo%2F&psig=AOvVaw3nsXzHm7_EHFHByowb4uNe&ust=1686156506775000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICJ8c6Mr_8CFQAAAAAdAAAAABAE)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 
