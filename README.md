@@ -11,6 +11,8 @@ Sobre mim:
 - 📄 Fui bolsista CNPQ - ITA  pela Embrapa onde tive que trabalhar com processamento de imagem usando a biblioteca Python do Google Earth Engine Code. 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caiolfreitas98&label=Profile%20views&color=0e75b6&style=flat" alt="caiolfreitas98" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/caio-freitas-77b824236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caio-freitas-77b824236" height="30" width="40" /></a>
