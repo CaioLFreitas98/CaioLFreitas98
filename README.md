@@ -7,7 +7,7 @@ Sobre mim:
 - 🔭 Atualmente sou Analista de Sistemas e de Suporte Computacional auxiliando a empresa no uso do sistema WMS 
 - 🌱 
 
-Tenho como foco hoje a linguagem Python.
+ #LINGUAGENS.
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 
