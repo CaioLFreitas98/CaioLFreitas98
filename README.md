@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 Meu nome é  Caio Leando Freitas da Silva e gosto de trabalhar com desenvolvimento back-end, muito prazer.
 
