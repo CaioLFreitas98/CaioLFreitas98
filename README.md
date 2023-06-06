@@ -9,7 +9,7 @@ Sobre mim:
 - 🌱 Tenho conhecimento pratico em JavaScript usando o Google Earth Engine Code e tenho conhecimento basico do Framework NestJS para backend
 - 📄 Fui bolsista CNPQ - ITI A  pela Embrapa onde tive a oportunidade trabalhar com processamento de imagem usando a biblioteca Python do Google Earth Engine Code. 
 - 👯 Estou em busca de colaborar em projetos back-end com Python ou Java.
-- ⚡ Um fato sobre mim é que front end não é minha praia :P
+- ⚡ Um fato sobre mim, é que front end não é minha praia.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiolfreitas98&label=Profile%20views&color=0e75b6&style=flat" alt="caiolfreitas98" /> </p>
