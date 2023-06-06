@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-Meu nome é  Caio Leando Freitas da Silva e sou desenvolvedor back-end, muito prazer.
+Meu nome é  Caio Leando Freitas da Silva e gosto de trabalhar com desenvolvimento back-end, muito prazer.
 
 Sobre mim:
 
 - 🔭 Atualmente sou Analista de Sistemas e de Suporte Computacional auxiliando a empresa no uso do sistema WMS 
 - 🌱 Estou sempre tentando aprender as principais ferramentas da linguagem Python, como Selenium, Scrapy, Beautiful Soup, PyAutoGUI, Matplotlib, OpenCV, NumPy e Flask
+- 🌱 Tenho conhecimento pratico em JavaScript usando o Google Earth Engine Code e já tenho conhecimento do FrameWork NestJS para backend
 - 👯 Estou em buscar de colaborar em projetos.
 - 📄 Fui bolsista CNPQ - ITA  pela Embrapa onde tive que trabalhar com processamento de imagem usando a biblioteca Python do Google Earth Engine Code. 
 
