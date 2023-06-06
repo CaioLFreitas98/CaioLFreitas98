@@ -8,7 +8,7 @@ Sobre mim:
 - 🌱 Estou sempre tentando aprender as principais ferramentas da linguagem Python, como Selenium, Scrapy, Beautiful Soup, PyAutoGUI, Matplotlib, OpenCV, NumPy e Flask
 - 🌱 Tenho conhecimento pratico em JavaScript usando o Google Earth Engine Code e tenho conhecimento basico do Framework NestJS para backend
 - 📄 Fui bolsista CNPQ - ITI A  pela Embrapa onde tive a oportunidade trabalhar com processamento de imagem usando a biblioteca Python do Google Earth Engine Code. 
-- 👯 Estou em busca de colaborar em projetos back-end com Python ou Java.
+- 👯 Estou em busca de colaborar em projetos back-end com Python ou JavaScript.
 - ⚡ Um fato sobre mim, é que front end não é minha praia.
 
 
