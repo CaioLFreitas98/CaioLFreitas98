@@ -7,8 +7,8 @@ Sobre mim:
 - 🔭 Atualmente sou Analista de Sistemas e de Suporte Computacional auxiliando a empresa no uso do sistema WMS 
 - 🌱 Estou sempre tentando aprender as principais ferramentas da linguagem Python, como Selenium, Scrapy, Beautiful Soup, PyAutoGUI, Matplotlib, OpenCV, NumPy e Flask
 - 🌱 Tenho conhecimento pratico em JavaScript usando o Google Earth Engine Code e já tenho conhecimento do FrameWork NestJS para backend
-- 👯 Estou em buscar de colaborar em projetos.
-- 📄 Fui bolsista CNPQ - ITA  pela Embrapa onde tive que trabalhar com processamento de imagem usando a biblioteca Python do Google Earth Engine Code. 
+- 📄 Fui bolsista CNPQ - ITA  pela Embrapa onde tive a oportunidade trabalhar com processamento de imagem usando a biblioteca Python do Google Earth Engine Code. 
+- - 👯 Estou em busca de colaborar em projetos back-end com Python ou Java.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiolfreitas98&label=Profile%20views&color=0e75b6&style=flat" alt="caiolfreitas98" /> </p>
