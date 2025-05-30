@@ -11,11 +11,11 @@ Busco transformar dados em soluções reais e automatizadas — seja limpando, a
 - 📊 Foco em **Engenharia de Dados**, com projetos em ETL, APIs, automação e IA com Python
 - 🧠 Desenvolvendo uma IA por voz com comandos naturais para música, clima, agenda e tarefas
 - 🌐 Experiência com APIs como: Spotify, OpenWeather, GNews, Todoist, Google Calendar e Zelda API
-- 🗃️ Conhecimento sólido em **PostgreSQL**, **Oracle**, **SQL Server**, **Docker**, e manipulação de grandes volumes de dados
-- 📷 Experiência em **processamento de imagens com Python** via Google Earth Engine (CNPq / Embrapa)
-- 🐍 Familiaridade com bibliotecas como: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scrapy`, `BeautifulSoup`, `OpenCV`, `Flask`, `Django`, `FastAPI`
-- 🖥️ Também trabalho com **JavaScript** (Node.js, Express)
-- 🤝 Buscando colaborar em projetos de **dados**, **back-end** ou **automação**
+- 🗃️ Conhecimento sólido em **PostgreSQL**, **Oracle**, **SQL Server**, **Docker**, 
+- 📷 Experiência em **processamento de imagens com Python** via Google Earth Engine (CNPq / Embrapa) e manipulação de grandes volumes de dados
+- 🐍 Familiaridade com bibliotecas voltadas à dados, IA  e desenvolvimento de software, como: Pandas, NumPy, Polars, Matplotlib, Seaborn, Plotly, Scikit-learn, PySpark, SQLAlchemy, Scrapy, OpenCV, Flask, FastAPI e Airflow
+- 🖥️ Também tenho conhecimento com **JavaScript** (Node.js, Express)
+- 🤝 Buscando colaborar em projetos de **dados**, **IA** ou **automação**
 - ⚡ Fun fact: sou apaixonado por dados, mas não sou fã de front-end 😄
 
 ---
