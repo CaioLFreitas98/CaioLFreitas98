@@ -1,20 +1,22 @@
 ### 👋 Hello, I'm Caio Leandro Freitas da Silva!
 
-Sou apaixonado por **dados**, tecnologia e inteligência artificial. Atualmente atuo como **Analista de Sistemas e Desenvolvimento**, com foco em engenharia e ciência de dados. Sempre buscando aplicar conhecimento prático em projetos que envolvam **automação, coleta, processamento, análise e visualização de dados**.
+Sou apaixonado por **dados, tecnologia e inteligência artificial**. Atualmente atuo como **Analista de Sistemas e Desenvolvimento**, com foco em **engenharia e análise de dados**.
+
+Busco transformar dados em soluções reais e automatizadas — seja limpando, analisando, integrando APIs ou desenvolvendo pipelines completos.
 
 ---
 
 ### 💼 Sobre mim
 
-- 🔍 Foco atual: Projetos em **Engenharia de Dados** com Python e bancos relacionais como **PostgreSQL, Oracle e SQL Server**
-- 🔧 Desenvolvendo projetos completos de **pipelines de dados**, **ETL**, **API REST**, **coleta de dados via web scraping** e **automação de tarefas**
-- 🧠 Buscando criar uma **inteligência artificial integrada por voz**, com comandos naturais para música, clima, agenda, tarefas, notícias e muito mais
-- 📚 Em constante aprendizado de ferramentas como: `Pandas`, `NumPy`, `Matplotlib`, `Selenium`, `Scrapy`, `BeautifulSoup`, `OpenCV`, `PyAutoGUI`, `Flask`, `Django`, `FastAPI`
-- 🗃️ Experiência com bancos de dados relacionais e não relacionais, além de APIs como: **Spotify**, **OpenWeather**, **GNews**, **Todoist**, **Google Calendar**, **Zelda API**
-- 👨‍🔬 Fui bolsista CNPq (ITI A) na **Embrapa**, atuando em projetos de **processamento de imagens geográficas** com Python e Google Earth Engine
-- 👨‍💻 Também tenho conhecimento em JavaScript com os frameworks **Express.js** e **React**
-- 🤝 Aberto a colaborar em projetos de **dados, back-end e automação com Python**
-- ⚡ Fun fact: Front-end não é minha praia — meu foco é entregar dados úteis com robustez e eficiência 😄
+- 📊 Foco em **Engenharia de Dados**, com projetos em ETL, APIs, automação e IA com Python
+- 🧠 Desenvolvendo uma IA por voz com comandos naturais para música, clima, agenda e tarefas
+- 🌐 Experiência com APIs como: Spotify, OpenWeather, GNews, Todoist, Google Calendar e Zelda API
+- 🗃️ Conhecimento sólido em **PostgreSQL**, **Oracle**, **SQL Server**, **Docker**, e manipulação de grandes volumes de dados
+- 📷 Experiência em **processamento de imagens com Python** via Google Earth Engine (CNPq / Embrapa)
+- 🐍 Familiaridade com bibliotecas como: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scrapy`, `BeautifulSoup`, `OpenCV`, `Flask`, `Django`, `FastAPI`
+- 🖥️ Também trabalho com **JavaScript** (Node.js, Express)
+- 🤝 Buscando colaborar em projetos de **dados**, **back-end** ou **automação**
+- ⚡ Fun fact: sou apaixonado por dados, mas não sou fã de front-end 😄
 
 ---
 
@@ -34,17 +36,29 @@ Sou apaixonado por **dados**, tecnologia e inteligência artificial. Atualmente 
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🧰 Tecnologias & Ferramentas 
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/database/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+  <!-- NumPy -->
+  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
+  <!-- Jupyter -->
+  <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/></a>
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <!-- Oracle -->
+  <a href="https://www.oracle.com/database/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/></a>
+  <!-- SQL Server -->
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 </p>
 
 ---
