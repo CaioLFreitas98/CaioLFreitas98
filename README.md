@@ -1,15 +1,19 @@
-###👋 Olá, eu sou o Caio Leandro Freitas da Silva!
-### Engenheiro de software backend, apaixonado por IA, programação, jogos e IoT. Gosto de abrir as coisas pra ver como funcionam e de transformar ideia em produto que roda de verdade.
+### 👋 Olá, eu sou o Caio Leandro Freitas da Silva!
+
+Engenheiro de software backend, apaixonado por **IA, programação, jogos e IoT**. Gosto de abrir as coisas pra ver como funcionam e de transformar ideia em produto que roda de verdade.
+
+---
 
 ### 💼 Sobre mim
-🛠️ Hoje trabalho com engenharia de software, no dia a dia com JavaScript / TypeScript (Node.js) e Python
-🧠 Luna: minha assistente de IA própria, que controla música, clima, agenda, tarefas e a casa por comandos naturais
-💬 Bot de finanças do casal: bot com IA no WhatsApp pra controlar as finanças a dois, só mandando mensagem
-🌐 Experiência integrando APIs: Spotify, OpenWeather, Todoist, Google Calendar, WhatsApp, LLMs e mais
-🗃️ Banco de dados e infra: PostgreSQL, Docker, Git e Linux
-📷 Background em dados: processamento de imagens com Python via Google Earth Engine (CNPq / Embrapa), ETL e grandes volumes de dados
-🎮 Fora do código: jogos, tecnologia por trás deles e o canal LKBully (YouTube e Instagram)
-🤝 Aberto a colaborar em projetos de IA, automação e backend
+
+- 🛠️ Hoje trabalho com **engenharia de software**, no dia a dia com **JavaScript / TypeScript (Node.js)** e **Python**
+- 🧠 **Luna**: minha assistente de IA própria, que controla música, clima, agenda, tarefas e a casa por comandos naturais
+- 💬 **Bot de finanças do casal**: bot com IA no WhatsApp pra controlar as finanças a dois, só mandando mensagem
+- 🌐 Experiência integrando APIs: Spotify, OpenWeather, Todoist, Google Calendar, WhatsApp, LLMs e mais
+- 🗃️ Banco de dados e infra: **PostgreSQL**, **Docker**, **Git** e **Linux**
+- 📷 Background em dados: processamento de imagens com Python via Google Earth Engine (CNPq / Embrapa), ETL e grandes volumes de dados
+- 🎮 Fora do código: jogos, tecnologia por trás deles e o canal **LKBully** (YouTube e Instagram)
+- 🤝 Aberto a colaborar em projetos de **IA**, **automação** e **backend**
 
 ---
 
@@ -29,7 +33,7 @@
 
 ---
 
-### 🧰 Tecnologias & Ferramentas 
+### 🧰 Tecnologias & Ferramentas
 
 <p align="left">
   <!-- Python -->
