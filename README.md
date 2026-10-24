@@ -1,22 +1,15 @@
-### 👋 Hello, I'm Caio Leandro Freitas da Silva!
-
-Sou apaixonado por **dados, tecnologia e inteligência artificial**. Atualmente atuo como **Analista de Sistemas e Desenvolvimento**, com foco em **engenharia e análise de dados**.
-
-Busco transformar dados em soluções reais e automatizadas — seja limpando, analisando, integrando APIs ou desenvolvendo pipelines completos.
-
----
+###👋 Olá, eu sou o Caio Leandro Freitas da Silva!
+### Engenheiro de software backend, apaixonado por IA, programação, jogos e IoT. Gosto de abrir as coisas pra ver como funcionam e de transformar ideia em produto que roda de verdade.
 
 ### 💼 Sobre mim
-
-- 📊 Foco em **Engenharia de Dados**, com projetos em ETL, APIs, automação e IA com Python
-- 🧠 Desenvolvendo uma IA por voz com comandos naturais para música, clima, agenda e tarefas
-- 🌐 Experiência com APIs como: Spotify, OpenWeather, GNews, Todoist, Google Calendar e Zelda API
-- 🗃️ Conhecimento sólido em **PostgreSQL**, **Oracle**, **SQL Server**, **Docker**, 
-- 📷 Experiência em **processamento de imagens com Python** via Google Earth Engine (CNPq / Embrapa) e manipulação de grandes volumes de dados
-- 🐍 Familiaridade com bibliotecas voltadas à dados, IA  e desenvolvimento de software, como: Pandas, NumPy, Polars, Matplotlib, Seaborn, Plotly, Scikit-learn, PySpark, SQLAlchemy, Scrapy, OpenCV, Flask, FastAPI e Airflow
-- 🖥️ Também tenho conhecimento com **JavaScript** (Node.js, Express)
-- 🤝 Buscando colaborar em projetos de **dados**, **IA** ou **automação**
-- ⚡ Fun fact: sou apaixonado por dados, mas não sou fã de front-end 😄
+🛠️ Hoje trabalho com engenharia de software, no dia a dia com JavaScript / TypeScript (Node.js) e Python
+🧠 Luna: minha assistente de IA própria, que controla música, clima, agenda, tarefas e a casa por comandos naturais
+💬 Bot de finanças do casal: bot com IA no WhatsApp pra controlar as finanças a dois, só mandando mensagem
+🌐 Experiência integrando APIs: Spotify, OpenWeather, Todoist, Google Calendar, WhatsApp, LLMs e mais
+🗃️ Banco de dados e infra: PostgreSQL, Docker, Git e Linux
+📷 Background em dados: processamento de imagens com Python via Google Earth Engine (CNPq / Embrapa), ETL e grandes volumes de dados
+🎮 Fora do código: jogos, tecnologia por trás deles e o canal LKBully (YouTube e Instagram)
+🤝 Aberto a colaborar em projetos de IA, automação e backend
 
 ---
 
